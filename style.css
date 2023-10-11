@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: aliceblue;
+    background-color: #FBEEAC;
     margin: 0;
 }
 
@@ -21,7 +21,7 @@ h3{
 
 h1{
     font-size: 30px;
-    color: blanchedalmond;
+    color: #1D5D9B;
 }
 
 .logo{
@@ -41,7 +41,7 @@ nav{
 nav a {
     font-size: 20px;
     padding-left: 20px;
-    color: blueviolet;
+    color: #75C2F6;
     text-decoration: none;
     text-transform: uppercase;
 }
