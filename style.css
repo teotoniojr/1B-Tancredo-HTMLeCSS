@@ -45,3 +45,12 @@ nav a {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+.capa{
+    width: 100%;
+}
+
+.principal p{
+    font-size: 25px;
+    margin: 10px 240px;
+}
